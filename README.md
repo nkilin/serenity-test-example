@@ -1,6 +1,6 @@
 ## Table of contents
 [Requirements](#requirements)  
-[How to run the tests](#howToRunTheTests)
+[How to run the tests](#howToRunTheTests)  
 [Reports](#reports)
 
 <a name="requirements"></a>
