@@ -13,7 +13,7 @@
 
 <a name="howToRunTheTests"></a>
 # How to run the tests
-From the `serenity` folder execute the following maven command:
+From the `serenity` folder execute the following maven command:  
 `mvn clean verify -Psample -Dcucumber.options="--tags '@sample'" -Dwebdriver.driver=chrome`
 
 <a name="reports"></a>
